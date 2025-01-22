@@ -18,8 +18,18 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 
 - ¿Que sucedió?
 
-     - Lo que paso 
-### PARTE III
-- Hay una mejor manera de manejar los conflictos y es creando ramas para trabajar no sobre la main si no en una
+     - Lo que paso es que al subir los dos push al mismo tiempo alguno es aceptado y el otro es rechazado, por lo tanto debe
+        solucionar ese problema haciendo pull de los cambios
+       ![image](PRIMERA.jpeg)
+
+       Luego lo que se debe hacer es eliminar la parte que tiene en el archivo README <<<<<<<, ======= y >>>>>>> o juntar lo necesario a mano.
+       ![image](Segunda.jpeg)
+
+   - Ahora haciendolo en IntelliJ de la misma manera nos detecta el problema de compatibilidades
+   ![image](tercera.jpeg)
+   por lo que debemos hacer el merge y unir o decidir con que versiones quedarnos
+   ![image](cuarta.jpeg)
+
+
 
 
