@@ -13,3 +13,4 @@ Captura el estado del repositorio local en ese mismo momento, dando asi la infor
 
 Ademas el **-m** permite ponerle un nombre especifico a el commit para asi poder diferenciar los muchos commits que tiene un proyecto y que se realiza en cada uno de ellos.
 ***
+- Intento de push simultaneo
