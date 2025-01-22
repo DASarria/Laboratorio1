@@ -14,8 +14,5 @@ Captura el estado del repositorio local en ese mismo momento, dando asi la infor
 Ademas el **-m** permite ponerle un nombre especifico a el commit para asi poder diferenciar los muchos commits que tiene un proyecto y que se realiza en cada uno de ellos.
 ***
 
-Prueba subir al mismo tiempo
-
-Segundo intento de push simultaneo
-
-Segundo intento subir al mismo tiempo
+### PARTE III
+- Hay una mejor manera de manejar los conflictos y es creando ramas para trabajar no sobre la main si no en una
