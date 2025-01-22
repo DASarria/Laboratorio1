@@ -13,9 +13,11 @@ Captura el estado del repositorio local en ese mismo momento, dando asi la infor
 
 Ademas el **-m** permite ponerle un nombre especifico a el commit para asi poder diferenciar los muchos commits que tiene un proyecto y que se realiza en cada uno de ellos.
 ***
+## PARTE II
+Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
-Prueba subir al mismo tiempo
+- ¿Que sucedió?
 
-Segundo intento de push simultaneo
+     - Lo que paso 
 
-Segundo intento subir al mismo tiempo
+
