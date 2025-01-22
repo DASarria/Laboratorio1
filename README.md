@@ -12,3 +12,4 @@ Sirve para agregar cambios desde mi area de trabajo a un area donde dichos cambi
 Captura el estado del repositorio local en ese mismo momento, dando asi la informacion de si todo esta listo para hacer un posible push y subir todo a el repositorio principal o no.
 
 Ademas el **-m** permite ponerle un nombre especifico a el commit para asi poder diferenciar los muchos commits que tiene un proyecto y que se realiza en cada uno de ellos.
+***
