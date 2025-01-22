@@ -18,6 +18,7 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 
 - ¿Que sucedió?
 
+
      - Lo que paso es que al subir los dos push al mismo tiempo alguno es aceptado y el otro es rechazado, por lo tanto debe
         solucionar ese problema haciendo pull de los cambios
        ![image](PRIMERA.jpeg)
@@ -31,5 +32,17 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
    ![image](cuarta.jpeg)
 
 
+
+
+     - Lo que paso 
+### PARTE III
+- Hay una mejor manera de manejar los conflictos y es creando ramas para trabajar no sobre la main si no en una aparte y generar un pull request para que se junten con la rama main/master
+- Un pull request es pedir la solicitud a otro desarrollador del equipo que acepte los cambios hechos para que se añadan a la rama main/master 
+- Ambos creamos ramas dentro del repositorio :
+![Image](RAMAS.png)
+  - Independientemente cada uno hizo el checkout para cambiar de rama para hacer cambios sobre las creadas por cada uno:
+  ![Image](CAMBIO1.jpeg)
+  ![Image](CAMBIO2.png)
+  
 
 
