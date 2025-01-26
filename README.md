@@ -1,7 +1,7 @@
 # Laboratorio1
 
 ## Integrantes
-Santiago Amador Diaz
+Santiago Amador Diaz,
 David Stiven Sarria Arcila
 ## PARTE I (Trabajo Individual).
 
@@ -50,6 +50,17 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 
   Asi se ve cuando en una de las ramas se hacen cambios para saber que puede ser comparada y unidos los cambio a la rama main o master
   ![Image](PRDavid.png)
+
   
 
+  ![Image](CPR.png)
+
+  Luego de crear el PR el otro integrante debe aceptar dichos cambios
+
+  ![Image](PROBARPR.png)
+
+  Y luego dichos cambios se añadiran a la rama principal, o la rama a la que se le quiera agregar dichos cambios.
+
+
+  ![Image](Aceptado.png)
 
