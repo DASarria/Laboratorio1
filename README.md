@@ -46,6 +46,10 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
   - Independientemente cada uno hizo el checkout para cambiar de rama para hacer cambios sobre las creadas por cada uno:
   ![Image](CAMBIO1.jpeg)
   ![Image](CAMBIO2.png)
+
+
+  Asi se ve cuando en una de las ramas se hacen cambios para saber que puede ser comparada y unidos los cambio a la rama main o master
+  ![Image](PRDavid.png)
   
 
 
