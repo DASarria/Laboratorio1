@@ -24,15 +24,15 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 
      - Lo que paso es que al subir los dos push al mismo tiempo alguno es aceptado y el otro es rechazado, por lo tanto debe
         solucionar ese problema haciendo pull de los cambios
-       ![image](PRIMERA.jpeg)
+       ![image](assets/PRIMERA.jpeg)
 
        Luego lo que se debe hacer es eliminar la parte que tiene en el archivo README <<<<<<<, ======= y >>>>>>> o juntar lo necesario a mano.
-       ![image](Segunda.jpeg)
+       ![image](assets/Segunda.jpeg)
 
    - Ahora haciendolo en IntelliJ de la misma manera nos detecta el problema de compatibilidades
-   ![image](tercera.jpeg)
+   ![image](assets/tercera.jpeg)
    por lo que debemos hacer el merge y unir o decidir con que versiones quedarnos
-   ![image](cuarta.jpeg)
+   ![image](assets/cuarta.jpeg)
 
 
 
@@ -42,25 +42,25 @@ Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir
 - Hay una mejor manera de manejar los conflictos y es creando ramas para trabajar no sobre la main si no en una aparte y generar un pull request para que se junten con la rama main/master
 - Un pull request es pedir la solicitud a otro desarrollador del equipo que acepte los cambios hechos para que se añadan a la rama main/master 
 - Ambos creamos ramas dentro del repositorio :
-![Image](RAMAS.png)
+![Image](assets/RAMAS.png)
   - Independientemente cada uno hizo el checkout para cambiar de rama para hacer cambios sobre las creadas por cada uno:
-  ![Image](CAMBIO1.jpeg)
-  ![Image](CAMBIO2.png)
+  ![Image](assets/CAMBIO1.jpeg)
+  ![Image](assets/CAMBIO2.png)
 
 
   Asi se ve cuando en una de las ramas se hacen cambios para saber que puede ser comparada y unidos los cambio a la rama main o master
-  ![Image](PRDavid.png)
+  ![Image](assets/PRDavid.png)
 
   
 
-  ![Image](CPR.png)
+  ![Image](assets/CPR.png)
 
   Luego de crear el PR el otro integrante debe aceptar dichos cambios
 
-  ![Image](PROBARPR.png)
+  ![Image](assets/PROBARPR.png)
 
   Y luego dichos cambios se añadiran a la rama principal, o la rama a la que se le quiera agregar dichos cambios.
 
 
-  ![Image](Aceptado.png)
+  ![Image](assets/Aceptado.png)
 
