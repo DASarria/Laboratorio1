@@ -1,5 +1,8 @@
 # Laboratorio1
 
+## Integrantes
+Santiago Amador Diaz
+David Stiven Sarria Arcila
 ## PARTE I (Trabajo Individual).
 
 Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
